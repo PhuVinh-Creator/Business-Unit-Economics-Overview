@@ -1,4 +1,7 @@
 # Business-Unit-Economics-Overview
+**See more in inpyp file*
+
+<img width="350" height="88" alt="image" src="https://github.com/user-attachments/assets/8731f419-a8ca-4e96-b2a1-5f7252d76825" />
 
 ## 1) Introduction 📜
 **Context**
