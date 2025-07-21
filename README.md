@@ -52,7 +52,7 @@ https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv?usp=dri
 <img width="729" height="382" alt="image" src="https://github.com/user-attachments/assets/c5d7173d-8de8-49a0-ab8e-c9fc9cf45577" />
 
 ## 4) Conclusion and recommendations
-**Quick Insights 🧠**
+**Quick Insights 🧠:**
 
 - LTV/CAC = 1.74 > 1 → Good! You're earning more per customer than you spend to acquire them.
 
