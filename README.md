@@ -1,7 +1,7 @@
 # Business-Unit-Economics-Overview
 **See more in ipynb file*
 
-<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/b9770ae9-100b-4fbc-9074-5e7d85763b9d" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/2773ed4e-4819-4723-b73f-ed75a0b12b5d" />
 
 ## 1) Introduction 📜
 **Context**
