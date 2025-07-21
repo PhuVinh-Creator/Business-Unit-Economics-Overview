@@ -52,25 +52,18 @@ https://drive.google.com/drive/folders/1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv?usp=dri
 <img width="729" height="382" alt="image" src="https://github.com/user-attachments/assets/c5d7173d-8de8-49a0-ab8e-c9fc9cf45577" />
 
 ## 4) Conclusion and recommendations
-**Customer Metrics Summary 📝:**
+**Quick Insights 🧠**
 
-CAC (Customer Acquisition Cost): ($1,213.97)
-ARPU (Avg. Revenue Per User): ($284.36)
-Gross Margin: (75.6%)
-LTV (Customer Lifetime Value): ($2,115.65)
-LTV/CAC Ratio: (1.74)
-🧠 Quick Insight:
+- LTV/CAC = 1.74 > 1 → Good! You're earning more per customer than you spend to acquire them.
 
-✅ LTV/CAC = 1.74 > 1 → Good! You're earning more per customer than you spend to acquire them.
-
-⚠️ However, the optimal LTV/CAC is between 3 and 5 — this means:
+- However, the optimal LTV/CAC is between 3 and 5 — this means:
 
 You may need to either reduce CAC or increase ARPU/LTV to maximize profitability.
 
-📌 Suggestions:
+**Suggestions 📌:**
 
-🔻 Reduce CAC: Optimize marketing spend, improve targeting.
+- Reduce CAC: Optimize marketing spend, improve targeting. Therefore, the LTV would be greater and reach to the range of 3 to 5
 
-📈 Boost ARPU: Upsell/cross-sell, subscription tiers, or increase prices.
+- Boost ARPU: Upsell/cross-sell, creater subscription tiers incentives, or increase prices in certain products then schedule a discount in certain of time to attract customer psychologically. The ARPU will have a chance to surpass the (`$284.36`) and increase the customer's cart value.
 
-♻️ Improve LTV: Increase customer retention, add loyalty programs.**
+- Improve LTV: Consider designing more appealing loyalty program and include many benefit based on existent customer's buying behaviors and habits. This will improve the LTV value ($2,115.65)  
